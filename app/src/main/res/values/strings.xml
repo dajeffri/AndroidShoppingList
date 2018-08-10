@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Shopping List</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_send">Send</string>
+    <string name="stores_title">Stores</string>
+    <string name="full_title">Shopping List</string>
+    <string name="email_message_type">message/rfc822</string>
+    <string name="email_message_subject">Shopping List</string>
+    <string name="email_message_title">Send mail…</string>
+    <string name="email_message_error">No email client found</string>
+    <string name="item_name_hint">Item</string>
+    <string name="store_name_hint">Store</string>
+    <string name="item_edit_reoccurs">Reoccurs</string>
+    <string name="fab_description">Add Item</string>
+    <string name="text_view">TextView</string>
+    <string name="drawer_title">Communicate</string>
+    <string name="store_list_layout_placeholder">Store</string>
+    <string name="no_items_warning">No Items</string>
+</resources>
